@@ -55,3 +55,18 @@ Run the following command to call LMMS to reorder the results and query images t
 ```python
 python lmms.py
 ```
+
+
+
+## Ref
+
+```tex
+@article{Cui2026,
+  title = {{{DualGeo}}: {{A Dual-View Framework for Worldwide Image Geo-localization}},
+  author = {Junchao Cui, etal.},
+  date = {2026},
+  title = {IEEE International Conference on Multimedia & Expo (ICME)},
+  pages = {1--6}
+}
+```
+
